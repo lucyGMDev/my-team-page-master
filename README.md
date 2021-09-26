@@ -32,6 +32,6 @@
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
+- GitHub [@your-username](https://github.com/lucyGMDev)
+- Twitter [@your-twitter](https://twitter.com/LucyGM_DEV)
