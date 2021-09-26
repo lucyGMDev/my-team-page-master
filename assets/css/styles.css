@@ -65,6 +65,11 @@ body {
   text-transform: uppercase;
   transform: rotate(90deg);
 }
+.teammates__name{
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 0.75rem;
+}
 
 .page-footer {
   margin-top: 7rem;
