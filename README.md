@@ -33,5 +33,5 @@
 ## Contact
 
 
-- GitHub [@your-username](https://github.com/lucyGMDev)
-- Twitter [@your-twitter](https://twitter.com/LucyGM_DEV)
+- GitHub [LucyGMDev](https://github.com/lucyGMDev)
+- Twitter [LucyGM](https://twitter.com/LucyGM_DEV)
